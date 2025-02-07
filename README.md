@@ -1,0 +1,2 @@
+# Skylanders-Portal-IDs
+ 
