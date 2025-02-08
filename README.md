@@ -1,7 +1,7 @@
 # Skylanders Portal IDs
-Internal digital Skylanders Portal of Power IDs (along with their FCC ID for physical model identification purposes), used to identify the Portal using software, such as to reject non-Traptanium Portal of Powers in Skylanders Trap Team. The ID is sent out as a response from the Portal of Power after sending it a report beginning with 0x52 ('R').
+Internal digital Skylanders Portal of Power IDs (along with their FCC IDs for physical model identification purposes), used to identify the Portal using software, such as to reject non-Traptanium Portal of Powers in Skylanders Trap Team. The ID is sent out as part of a response from the Portal of Power after sending it a report beginning with 0x52 ('R').
 
-These are all Portals I can personally verify, including the SWAP Force Retail Demo Portal of Power, and many (if not all) of the FCC IDs can be verified [here](https://fccid.io/XLU). If you can personally verify that you own a specific Portal of Power and can also obtain it's digital ID and/or optionally it's FCC ID (if it is somehow exempt from this list), please feel free to submit an issue with the information. There are some Portals here with a '?' as I cannot personally verify the exact information about the Portal at this moment in time.
+These are all Portals I can personally verify, including the SWAP Force Retail Demo Portal of Power, and many (if not all) of the FCC IDs can be verified independently [here](https://fccid.io/XLU). If you can personally verify that you own a specific Portal of Power and can also obtain it's digital ID and/or optionally it's FCC ID (if it is somehow exempt from this list), please feel free to submit an issue with the information. There are some Portals here with a '?' as I cannot personally verify the exact information about the Portal at this moment in time.
 
 Note that the Wireless Dongles do have their own FCC IDs and model no. but have been excluded from the list.
 
