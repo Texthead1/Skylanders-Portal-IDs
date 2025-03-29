@@ -13,26 +13,27 @@ Skylanders, Spyro, Activision, and other intellectual properties are owned by Ac
 Portal                                   | FCC ID      | ID
 -----------------------------------------|-------------|----------
 Spyro's Adventure (Wii Wireless)         | XLU83973790 | 0x01 0x29
-Spyro's Adventure (PlayStation Wireless) | XLU83973790 | ???
-Spyros' Adventure Portal (Xbox 360)      | XLU84151790 | ???
-Spyro's Adventure Portal (PC/Mac)        | XLU84157790 | ???
+Spyro's Adventure (PlayStation Wireless) | XLU83973790 | 0x01 0x29
+Spyros' Adventure Portal (Xbox 360)      | XLU84151790 | 0x01 0x28
+Spyro's Adventure Portal (PC/Mac)        | XLU84157790 | 0x01 0x2C
 Spyro's Adventure Portal (3DS)           | XLU84154790 | 0x01 0x34
 Giants Portal of Power                   | XLU0000502  | 0x01 0x3D
 Giants Portal (alt? PS3?)                | XLU0000502  | 0x01 0x3C
-Giants Portal (Xbox 360)                 | XLU84392790 | ???
-Battlegrounds Portal (Bluetooth)         | XLU84442790 | ???
+Giants Portal (Xbox 360)                 | XLU84392790 | 0x01 0x48
+Giants Portal (3DS)                      | XLU84154790 | 0x01 0x34
+Battlegrounds Portal (Bluetooth)         | XLU84442790 | 0x01 0x40
 SWAP Force Portal of Power               | XLU0000547  | 0x02 0x03
-SWAP Force Portal (Xbox 360)             | XLU84704790 | ???
+SWAP Force Portal (Xbox 360)             | XLU84704790 | 0x02 0x03
 SWAP Force Portal (Xbox One)             | XLU84709790 | ???
-SWAP Force Portal (3DS)                  | XLU84721790 | ???
+SWAP Force Portal (3DS)                  | XLU84721790 | 0x02 0x02
 SF Retail Demo Portal of Power           | XLU68067790 | 0x02 0x03
 Traptanium Portal                        | XLU0000586  | 0x02 0x18
-Traptanium Portal (Xbox 360)             | XLU87031790 | ???
-Traptanium Portal (Xbox One)             | XLU87036790 | ???
+Traptanium Portal (Xbox 360)             | XLU87031790 | 0x02 0x1B
+Traptanium Portal (Xbox One)             | XLU87036790 | 0x02 0x27
 Traptanium Portal (Mobile BLE)           | XLU87131790 | 0x02 0x19
-SuperChargers Portal of Power            | XLU0000655  | ???
-SuperChargers Portal (Xbox 360)          | XLU87504790 | ???
+SuperChargers Portal of Power            | XLU0000655  | 0x02 0x0A 0x03 0x02
+SuperChargers Portal (Xbox 360)          | XLU87504790 | 0x02 0x0A 0x03 0x02
 SuperChargers Portal (Xbox One)          | XLU87506790 | 0x02 0x14 0x03 0x02
-Imaginators Portal of Power              | XLU0000726  | ???
+Imaginators Portal of Power              | XLU0000726  | 0x02 0x0A 0x05 0x08
 Imaginators Portal (EU, Xbox 360)        | XLU84704791 | ???
 Imaginators Portal (EU, Xbox One)        | XLU84709791 | ???
