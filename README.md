@@ -12,9 +12,8 @@ Skylanders, Spyro, Activision, and other intellectual properties are owned by Ac
 ## Info
 Portal                                   | FCC ID      | ID
 -----------------------------------------|-------------|----------
-Spyro's Adventure (Wii Wireless)         | XLU83973790 | 0x01 0x29
-Spyro's Adventure (PlayStation Wireless) | XLU83973790 | 0x01 0x29
-Spyros' Adventure Portal (Xbox 360)      | XLU84151790 | 0x01 0x28
+Spyro's Adventure (Wii/PS3 Wireless)     | XLU83973790 | 0x01 0x29
+Spyro's Adventure Portal (Xbox 360)      | XLU84151790 | 0x01 0x28
 Spyro's Adventure Portal (PC/Mac)        | XLU84157790 | 0x01 0x2C
 Spyro's Adventure Portal (3DS)           | XLU84154790 | 0x01 0x34
 Giants Portal of Power                   | XLU0000502  | 0x01 0x3D
