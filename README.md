@@ -21,12 +21,14 @@ Giants Portal (alt? PS3?)                | XLU0000502  | 0x01 0x3C
 Giants Portal (Xbox 360)                 | XLU84392790 | 0x01 0x48
 Giants Portal (3DS)                      | XLU84154790 | 0x01 0x34
 Battlegrounds Portal (Bluetooth)         | XLU84442790 | 0x01 0x40
+Battlegrounds Portal (TV Wired)          | XLU0000502  | 0x01 0x3D
 SWAP Force Portal of Power               | XLU0000547  | 0x02 0x03
 SWAP Force Portal (Xbox 360)             | XLU84704790 | 0x02 0x03
 SWAP Force Portal (Xbox One)             | XLU84709790 | ???
 SWAP Force Portal (3DS)                  | XLU84721790 | 0x02 0x02
 SF Retail Demo Portal of Power           | XLU68067790 | 0x02 0x03
 Traptanium Portal                        | XLU0000586  | 0x02 0x18
+Traptanium Portal (alt?)                 | XLU0000586  | 0x02 0x1B
 Traptanium Portal (Xbox 360)             | XLU87031790 | 0x02 0x1B
 Traptanium Portal (Xbox One)             | XLU87036790 | 0x02 0x27
 Traptanium Portal (Mobile BLE)           | XLU87131790 | 0x02 0x19
