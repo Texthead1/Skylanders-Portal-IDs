@@ -36,5 +36,5 @@ SuperChargers Portal of Power            | XLU0000655  | 0x02 0x0A 0x03 0x02
 SuperChargers Portal (Xbox 360)          | XLU87504790 | 0x02 0x0A 0x03 0x02
 SuperChargers Portal (Xbox One)          | XLU87506790 | 0x02 0x14 0x03 0x02
 Imaginators Portal of Power              | XLU0000726  | 0x02 0x0A 0x05 0x08
-Imaginators Portal (EU, Xbox 360)        | XLU84704791 | ???
-Imaginators Portal (EU, Xbox One)        | XLU84709791 | ???
+Imaginators Portal (SF Xbox 360)         | XLU84704791 | 0x02 0x0A 0x05 0x08
+Imaginators Portal (SF Xbox One)         | XLU84709791 | ???
